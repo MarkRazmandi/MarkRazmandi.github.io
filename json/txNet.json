@@ -1,0 +1,4574 @@
+{
+  "nodes": [
+    {
+      "id": "Anadarko Petroleum",
+      "group": 0
+    },
+    {
+      "id": "E_AND_P",
+      "group": 1
+    },
+    {
+      "id": "INTL_DWEX",
+      "group": 2
+    },
+    {
+      "id": "INTL_DWOP",
+      "group": 2
+    },
+    {
+      "id": "MARKETG",
+      "group": 2
+    },
+    {
+      "id": "MDSTRM",
+      "group": 2
+    },
+    {
+      "id": "USONS_EP",
+      "group": 2
+    },
+    {
+      "id": "ASSET_MGMT",
+      "group": 3
+    },
+    {
+      "id": "DELAWR_BSN",
+      "group": 3
+    },
+    {
+      "id": "EXPL_GOM",
+      "group": 3
+    },
+    {
+      "id": "GRWTH",
+      "group": 3
+    },
+    {
+      "id": "MIDIA",
+      "group": 3
+    },
+    {
+      "id": "MISCMDSTRM",
+      "group": 3
+    },
+    {
+      "id": "OFFSHOR",
+      "group": 3
+    },
+    {
+      "id": "OTH_ONSHORE",
+      "group": 3
+    },
+    {
+      "id": "DOM_MKTG",
+      "group": 4
+    },
+    {
+      "id": "EGOM",
+      "group": 4
+    },
+    {
+      "id": "EGOMNEWDEV",
+      "group": 4
+    },
+    {
+      "id": "EGOM_EXPL",
+      "group": 4
+    },
+    {
+      "id": "EXPL_NOAM",
+      "group": 4
+    },
+    {
+      "id": "FOLDBELT",
+      "group": 4
+    },
+    {
+      "id": "FRSTCHKHST",
+      "group": 4
+    },
+    {
+      "id": "GOM_ADMIN",
+      "group": 4
+    },
+    {
+      "id": "GOM_OBO",
+      "group": 4
+    },
+    {
+      "id": "GREEN_CNYN",
+      "group": 4
+    },
+    {
+      "id": "MAVERICK",
+      "group": 4
+    },
+    {
+      "id": "MDSTRINACT",
+      "group": 4
+    },
+    {
+      "id": "OTH_ONS",
+      "group": 4
+    },
+    {
+      "id": "SW_REG_OTH",
+      "group": 4
+    },
+    {
+      "id": "WCHALK",
+      "group": 4
+    },
+    {
+      "id": "WGOM",
+      "group": 4
+    },
+    {
+      "id": "WGOM_EXPL",
+      "group": 4
+    },
+    {
+      "id": "40008764",
+      "group": 5
+    },
+    {
+      "id": "40008765",
+      "group": 5
+    },
+    {
+      "id": "40009036",
+      "group": 5
+    },
+    {
+      "id": "40009731",
+      "group": 5
+    },
+    {
+      "id": "40009732",
+      "group": 5
+    },
+    {
+      "id": "40040050",
+      "group": 5
+    },
+    {
+      "id": "40050589",
+      "group": 5
+    },
+    {
+      "id": "40050603",
+      "group": 5
+    },
+    {
+      "id": "40050759",
+      "group": 5
+    },
+    {
+      "id": "41001238",
+      "group": 5
+    },
+    {
+      "id": "41001239",
+      "group": 5
+    },
+    {
+      "id": "41001240",
+      "group": 5
+    },
+    {
+      "id": "41001241",
+      "group": 5
+    },
+    {
+      "id": "41001262",
+      "group": 5
+    },
+    {
+      "id": "41001264",
+      "group": 5
+    },
+    {
+      "id": "41001265",
+      "group": 5
+    },
+    {
+      "id": "41001266",
+      "group": 5
+    },
+    {
+      "id": "41001267",
+      "group": 5
+    },
+    {
+      "id": "41001284",
+      "group": 5
+    },
+    {
+      "id": "41001500",
+      "group": 5
+    },
+    {
+      "id": "41001583",
+      "group": 5
+    },
+    {
+      "id": "41001649",
+      "group": 5
+    },
+    {
+      "id": "41001651",
+      "group": 5
+    },
+    {
+      "id": "41001652",
+      "group": 5
+    },
+    {
+      "id": "41001653",
+      "group": 5
+    },
+    {
+      "id": "41001654",
+      "group": 5
+    },
+    {
+      "id": "41001655",
+      "group": 5
+    },
+    {
+      "id": "41001656",
+      "group": 5
+    },
+    {
+      "id": "41001659",
+      "group": 5
+    },
+    {
+      "id": "41001660",
+      "group": 5
+    },
+    {
+      "id": "41001661",
+      "group": 5
+    },
+    {
+      "id": "41001662",
+      "group": 5
+    },
+    {
+      "id": "41001663",
+      "group": 5
+    },
+    {
+      "id": "41001665",
+      "group": 5
+    },
+    {
+      "id": "41001666",
+      "group": 5
+    },
+    {
+      "id": "41001667",
+      "group": 5
+    },
+    {
+      "id": "41001672",
+      "group": 5
+    },
+    {
+      "id": "41001673",
+      "group": 5
+    },
+    {
+      "id": "41001674",
+      "group": 5
+    },
+    {
+      "id": "41001710",
+      "group": 5
+    },
+    {
+      "id": "41001712",
+      "group": 5
+    },
+    {
+      "id": "41001796",
+      "group": 5
+    },
+    {
+      "id": "41001804",
+      "group": 5
+    },
+    {
+      "id": "41001835",
+      "group": 5
+    },
+    {
+      "id": "41001859",
+      "group": 5
+    },
+    {
+      "id": "41001860",
+      "group": 5
+    },
+    {
+      "id": "41001864",
+      "group": 5
+    },
+    {
+      "id": "41001889",
+      "group": 5
+    },
+    {
+      "id": "41001895",
+      "group": 5
+    },
+    {
+      "id": "41001982",
+      "group": 5
+    },
+    {
+      "id": "41002054",
+      "group": 5
+    },
+    {
+      "id": "41002059",
+      "group": 5
+    },
+    {
+      "id": "41002139",
+      "group": 5
+    },
+    {
+      "id": "41002153",
+      "group": 5
+    },
+    {
+      "id": "41002690",
+      "group": 5
+    },
+    {
+      "id": "41002766",
+      "group": 5
+    },
+    {
+      "id": "41004101",
+      "group": 5
+    },
+    {
+      "id": "41004121",
+      "group": 5
+    },
+    {
+      "id": "41004140",
+      "group": 5
+    },
+    {
+      "id": "41004141",
+      "group": 5
+    },
+    {
+      "id": "41004151",
+      "group": 5
+    },
+    {
+      "id": "41004279",
+      "group": 5
+    },
+    {
+      "id": "41004281",
+      "group": 5
+    },
+    {
+      "id": "41008010",
+      "group": 5
+    },
+    {
+      "id": "41008104",
+      "group": 5
+    },
+    {
+      "id": "41008162",
+      "group": 5
+    },
+    {
+      "id": "41008163",
+      "group": 5
+    },
+    {
+      "id": "41008164",
+      "group": 5
+    },
+    {
+      "id": "41008167",
+      "group": 5
+    },
+    {
+      "id": "41008170",
+      "group": 5
+    },
+    {
+      "id": "41008174",
+      "group": 5
+    },
+    {
+      "id": "41008195",
+      "group": 5
+    },
+    {
+      "id": "41008196",
+      "group": 5
+    },
+    {
+      "id": "41008199",
+      "group": 5
+    },
+    {
+      "id": "41008200",
+      "group": 5
+    },
+    {
+      "id": "41008279",
+      "group": 5
+    },
+    {
+      "id": "41008288",
+      "group": 5
+    },
+    {
+      "id": "41008325",
+      "group": 5
+    },
+    {
+      "id": "41008336",
+      "group": 5
+    },
+    {
+      "id": "41008353",
+      "group": 5
+    },
+    {
+      "id": "41008374",
+      "group": 5
+    },
+    {
+      "id": "41008395",
+      "group": 5
+    },
+    {
+      "id": "41008445",
+      "group": 5
+    },
+    {
+      "id": "41008534",
+      "group": 5
+    },
+    {
+      "id": "41008630",
+      "group": 5
+    },
+    {
+      "id": "43100463",
+      "group": 5
+    },
+    {
+      "id": "43100545",
+      "group": 5
+    },
+    {
+      "id": "43100591",
+      "group": 5
+    },
+    {
+      "id": "43100595",
+      "group": 5
+    },
+    {
+      "id": "43101549",
+      "group": 5
+    },
+    {
+      "id": "43101550",
+      "group": 5
+    },
+    {
+      "id": "43101658",
+      "group": 5
+    },
+    {
+      "id": "43102004",
+      "group": 5
+    },
+    {
+      "id": "43102007",
+      "group": 5
+    },
+    {
+      "id": "43102157",
+      "group": 5
+    },
+    {
+      "id": "43102159",
+      "group": 5
+    },
+    {
+      "id": "43102206",
+      "group": 5
+    },
+    {
+      "id": "43102522",
+      "group": 5
+    },
+    {
+      "id": "43102765",
+      "group": 5
+    },
+    {
+      "id": "43102766",
+      "group": 5
+    },
+    {
+      "id": "43103104",
+      "group": 5
+    },
+    {
+      "id": "43103432",
+      "group": 5
+    },
+    {
+      "id": "43103974",
+      "group": 5
+    },
+    {
+      "id": "43104051",
+      "group": 5
+    },
+    {
+      "id": "43104052",
+      "group": 5
+    },
+    {
+      "id": "43104053",
+      "group": 5
+    },
+    {
+      "id": "43104054",
+      "group": 5
+    },
+    {
+      "id": "43104055",
+      "group": 5
+    },
+    {
+      "id": "US/17/001",
+      "group": 6
+    },
+    {
+      "id": "US/17/003",
+      "group": 6
+    },
+    {
+      "id": "US/17/009",
+      "group": 6
+    },
+    {
+      "id": "US/17/011",
+      "group": 6
+    },
+    {
+      "id": "US/17/013",
+      "group": 6
+    },
+    {
+      "id": "US/17/015",
+      "group": 6
+    },
+    {
+      "id": "US/17/017",
+      "group": 6
+    },
+    {
+      "id": "US/17/019",
+      "group": 6
+    },
+    {
+      "id": "US/17/021",
+      "group": 6
+    },
+    {
+      "id": "US/17/023",
+      "group": 6
+    },
+    {
+      "id": "US/17/027",
+      "group": 6
+    },
+    {
+      "id": "US/17/029",
+      "group": 6
+    },
+    {
+      "id": "US/17/031",
+      "group": 6
+    },
+    {
+      "id": "US/17/033",
+      "group": 6
+    },
+    {
+      "id": "US/17/039",
+      "group": 6
+    },
+    {
+      "id": "US/17/041",
+      "group": 6
+    },
+    {
+      "id": "US/17/049",
+      "group": 6
+    },
+    {
+      "id": "US/17/053",
+      "group": 6
+    },
+    {
+      "id": "US/17/057",
+      "group": 6
+    },
+    {
+      "id": "US/17/059",
+      "group": 6
+    },
+    {
+      "id": "US/17/061",
+      "group": 6
+    },
+    {
+      "id": "US/17/063",
+      "group": 6
+    },
+    {
+      "id": "US/17/073",
+      "group": 6
+    },
+    {
+      "id": "US/17/077",
+      "group": 6
+    },
+    {
+      "id": "US/17/079",
+      "group": 6
+    },
+    {
+      "id": "US/17/081",
+      "group": 6
+    },
+    {
+      "id": "US/17/083",
+      "group": 6
+    },
+    {
+      "id": "US/17/085",
+      "group": 6
+    },
+    {
+      "id": "US/17/087",
+      "group": 6
+    },
+    {
+      "id": "US/17/093",
+      "group": 6
+    },
+    {
+      "id": "US/17/097",
+      "group": 6
+    },
+    {
+      "id": "US/17/099",
+      "group": 6
+    },
+    {
+      "id": "US/17/101",
+      "group": 6
+    },
+    {
+      "id": "US/17/107",
+      "group": 6
+    },
+    {
+      "id": "US/17/109",
+      "group": 6
+    },
+    {
+      "id": "US/17/111",
+      "group": 6
+    },
+    {
+      "id": "US/17/113",
+      "group": 6
+    },
+    {
+      "id": "US/17/115",
+      "group": 6
+    },
+    {
+      "id": "US/17/119",
+      "group": 6
+    },
+    {
+      "id": "US/17/125",
+      "group": 6
+    },
+    {
+      "id": "US/17/127",
+      "group": 6
+    },
+    {
+      "id": "US/17/702",
+      "group": 6
+    },
+    {
+      "id": "US/17/709",
+      "group": 6
+    },
+    {
+      "id": "US/17/715",
+      "group": 6
+    },
+    {
+      "id": "US/17/718",
+      "group": 6
+    },
+    {
+      "id": "US/17/720",
+      "group": 6
+    },
+    {
+      "id": "US/17/725",
+      "group": 6
+    },
+    {
+      "id": "US/42/001",
+      "group": 6
+    },
+    {
+      "id": "US/42/003",
+      "group": 6
+    },
+    {
+      "id": "US/42/009",
+      "group": 6
+    },
+    {
+      "id": "US/42/013",
+      "group": 6
+    },
+    {
+      "id": "US/42/015",
+      "group": 6
+    },
+    {
+      "id": "US/42/021",
+      "group": 6
+    },
+    {
+      "id": "US/42/025",
+      "group": 6
+    },
+    {
+      "id": "US/42/033",
+      "group": 6
+    },
+    {
+      "id": "US/42/037",
+      "group": 6
+    },
+    {
+      "id": "US/42/039",
+      "group": 6
+    },
+    {
+      "id": "US/42/041",
+      "group": 6
+    },
+    {
+      "id": "US/42/043",
+      "group": 6
+    },
+    {
+      "id": "US/42/049",
+      "group": 6
+    },
+    {
+      "id": "US/42/051",
+      "group": 6
+    },
+    {
+      "id": "US/42/055",
+      "group": 6
+    },
+    {
+      "id": "US/42/057",
+      "group": 6
+    },
+    {
+      "id": "US/42/059",
+      "group": 6
+    },
+    {
+      "id": "US/42/065",
+      "group": 6
+    },
+    {
+      "id": "US/42/067",
+      "group": 6
+    },
+    {
+      "id": "US/42/071",
+      "group": 6
+    },
+    {
+      "id": "US/42/073",
+      "group": 6
+    },
+    {
+      "id": "US/42/079",
+      "group": 6
+    },
+    {
+      "id": "US/42/081",
+      "group": 6
+    },
+    {
+      "id": "US/42/083",
+      "group": 6
+    },
+    {
+      "id": "US/42/087",
+      "group": 6
+    },
+    {
+      "id": "US/42/089",
+      "group": 6
+    },
+    {
+      "id": "US/42/097",
+      "group": 6
+    },
+    {
+      "id": "US/42/101",
+      "group": 6
+    },
+    {
+      "id": "US/42/103",
+      "group": 6
+    },
+    {
+      "id": "US/42/105",
+      "group": 6
+    },
+    {
+      "id": "US/42/107",
+      "group": 6
+    },
+    {
+      "id": "US/42/109",
+      "group": 6
+    },
+    {
+      "id": "US/42/115",
+      "group": 6
+    },
+    {
+      "id": "US/42/123",
+      "group": 6
+    },
+    {
+      "id": "US/42/127",
+      "group": 6
+    },
+    {
+      "id": "US/42/131",
+      "group": 6
+    },
+    {
+      "id": "US/42/133",
+      "group": 6
+    },
+    {
+      "id": "US/42/135",
+      "group": 6
+    },
+    {
+      "id": "US/42/143",
+      "group": 6
+    },
+    {
+      "id": "US/42/149",
+      "group": 6
+    },
+    {
+      "id": "US/42/151",
+      "group": 6
+    },
+    {
+      "id": "US/42/157",
+      "group": 6
+    },
+    {
+      "id": "US/42/159",
+      "group": 6
+    },
+    {
+      "id": "US/42/161",
+      "group": 6
+    },
+    {
+      "id": "US/42/163",
+      "group": 6
+    },
+    {
+      "id": "US/42/165",
+      "group": 6
+    },
+    {
+      "id": "US/42/167",
+      "group": 6
+    },
+    {
+      "id": "US/42/169",
+      "group": 6
+    },
+    {
+      "id": "US/42/173",
+      "group": 6
+    },
+    {
+      "id": "US/42/175",
+      "group": 6
+    },
+    {
+      "id": "US/42/179",
+      "group": 6
+    },
+    {
+      "id": "US/42/181",
+      "group": 6
+    },
+    {
+      "id": "US/42/183",
+      "group": 6
+    },
+    {
+      "id": "US/42/185",
+      "group": 6
+    },
+    {
+      "id": "US/42/187",
+      "group": 6
+    },
+    {
+      "id": "US/42/189",
+      "group": 6
+    },
+    {
+      "id": "US/42/195",
+      "group": 6
+    },
+    {
+      "id": "US/42/197",
+      "group": 6
+    },
+    {
+      "id": "US/42/199",
+      "group": 6
+    },
+    {
+      "id": "US/42/201",
+      "group": 6
+    },
+    {
+      "id": "US/42/203",
+      "group": 6
+    },
+    {
+      "id": "US/42/207",
+      "group": 6
+    },
+    {
+      "id": "US/42/211",
+      "group": 6
+    },
+    {
+      "id": "US/42/213",
+      "group": 6
+    },
+    {
+      "id": "US/42/215",
+      "group": 6
+    },
+    {
+      "id": "US/42/217",
+      "group": 6
+    },
+    {
+      "id": "US/42/219",
+      "group": 6
+    },
+    {
+      "id": "US/42/223",
+      "group": 6
+    },
+    {
+      "id": "US/42/225",
+      "group": 6
+    },
+    {
+      "id": "US/42/227",
+      "group": 6
+    },
+    {
+      "id": "US/42/233",
+      "group": 6
+    },
+    {
+      "id": "US/42/235",
+      "group": 6
+    },
+    {
+      "id": "US/42/237",
+      "group": 6
+    },
+    {
+      "id": "US/42/239",
+      "group": 6
+    },
+    {
+      "id": "US/42/241",
+      "group": 6
+    },
+    {
+      "id": "US/42/245",
+      "group": 6
+    },
+    {
+      "id": "US/42/247",
+      "group": 6
+    },
+    {
+      "id": "US/42/251",
+      "group": 6
+    },
+    {
+      "id": "US/42/253",
+      "group": 6
+    },
+    {
+      "id": "US/42/255",
+      "group": 6
+    },
+    {
+      "id": "US/42/261",
+      "group": 6
+    },
+    {
+      "id": "US/42/263",
+      "group": 6
+    },
+    {
+      "id": "US/42/275",
+      "group": 6
+    },
+    {
+      "id": "US/42/279",
+      "group": 6
+    },
+    {
+      "id": "US/42/283",
+      "group": 6
+    },
+    {
+      "id": "US/42/285",
+      "group": 6
+    },
+    {
+      "id": "US/42/287",
+      "group": 6
+    },
+    {
+      "id": "US/42/289",
+      "group": 6
+    },
+    {
+      "id": "US/42/291",
+      "group": 6
+    },
+    {
+      "id": "US/42/293",
+      "group": 6
+    },
+    {
+      "id": "US/42/295",
+      "group": 6
+    },
+    {
+      "id": "US/42/297",
+      "group": 6
+    },
+    {
+      "id": "US/42/301",
+      "group": 6
+    },
+    {
+      "id": "US/42/303",
+      "group": 6
+    },
+    {
+      "id": "US/42/305",
+      "group": 6
+    },
+    {
+      "id": "US/42/311",
+      "group": 6
+    },
+    {
+      "id": "US/42/313",
+      "group": 6
+    },
+    {
+      "id": "US/42/315",
+      "group": 6
+    },
+    {
+      "id": "US/42/317",
+      "group": 6
+    },
+    {
+      "id": "US/42/321",
+      "group": 6
+    },
+    {
+      "id": "US/42/323",
+      "group": 6
+    },
+    {
+      "id": "US/42/329",
+      "group": 6
+    },
+    {
+      "id": "US/42/331",
+      "group": 6
+    },
+    {
+      "id": "US/42/335",
+      "group": 6
+    },
+    {
+      "id": "US/42/337",
+      "group": 6
+    },
+    {
+      "id": "US/42/339",
+      "group": 6
+    },
+    {
+      "id": "US/42/351",
+      "group": 6
+    },
+    {
+      "id": "US/42/355",
+      "group": 6
+    },
+    {
+      "id": "US/42/357",
+      "group": 6
+    },
+    {
+      "id": "US/42/361",
+      "group": 6
+    },
+    {
+      "id": "US/42/363",
+      "group": 6
+    },
+    {
+      "id": "US/42/365",
+      "group": 6
+    },
+    {
+      "id": "US/42/367",
+      "group": 6
+    },
+    {
+      "id": "US/42/371",
+      "group": 6
+    },
+    {
+      "id": "US/42/373",
+      "group": 6
+    },
+    {
+      "id": "US/42/379",
+      "group": 6
+    },
+    {
+      "id": "US/42/383",
+      "group": 6
+    },
+    {
+      "id": "US/42/389",
+      "group": 6
+    },
+    {
+      "id": "US/42/391",
+      "group": 6
+    },
+    {
+      "id": "US/42/393",
+      "group": 6
+    },
+    {
+      "id": "US/42/395",
+      "group": 6
+    },
+    {
+      "id": "US/42/399",
+      "group": 6
+    },
+    {
+      "id": "US/42/401",
+      "group": 6
+    },
+    {
+      "id": "US/42/409",
+      "group": 6
+    },
+    {
+      "id": "US/42/413",
+      "group": 6
+    },
+    {
+      "id": "US/42/415",
+      "group": 6
+    },
+    {
+      "id": "US/42/417",
+      "group": 6
+    },
+    {
+      "id": "US/42/419",
+      "group": 6
+    },
+    {
+      "id": "US/42/421",
+      "group": 6
+    },
+    {
+      "id": "US/42/423",
+      "group": 6
+    },
+    {
+      "id": "US/42/427",
+      "group": 6
+    },
+    {
+      "id": "US/42/429",
+      "group": 6
+    },
+    {
+      "id": "US/42/431",
+      "group": 6
+    },
+    {
+      "id": "US/42/433",
+      "group": 6
+    },
+    {
+      "id": "US/42/443",
+      "group": 6
+    },
+    {
+      "id": "US/42/445",
+      "group": 6
+    },
+    {
+      "id": "US/42/447",
+      "group": 6
+    },
+    {
+      "id": "US/42/451",
+      "group": 6
+    },
+    {
+      "id": "US/42/457",
+      "group": 6
+    },
+    {
+      "id": "US/42/459",
+      "group": 6
+    },
+    {
+      "id": "US/42/461",
+      "group": 6
+    },
+    {
+      "id": "US/42/465",
+      "group": 6
+    },
+    {
+      "id": "US/42/467",
+      "group": 6
+    },
+    {
+      "id": "US/42/469",
+      "group": 6
+    },
+    {
+      "id": "US/42/471",
+      "group": 6
+    },
+    {
+      "id": "US/42/473",
+      "group": 6
+    },
+    {
+      "id": "US/42/475",
+      "group": 6
+    },
+    {
+      "id": "US/42/477",
+      "group": 6
+    },
+    {
+      "id": "US/42/479",
+      "group": 6
+    },
+    {
+      "id": "US/42/481",
+      "group": 6
+    },
+    {
+      "id": "US/42/483",
+      "group": 6
+    },
+    {
+      "id": "US/42/485",
+      "group": 6
+    },
+    {
+      "id": "US/42/487",
+      "group": 6
+    },
+    {
+      "id": "US/42/489",
+      "group": 6
+    },
+    {
+      "id": "US/42/493",
+      "group": 6
+    },
+    {
+      "id": "US/42/495",
+      "group": 6
+    },
+    {
+      "id": "US/42/497",
+      "group": 6
+    },
+    {
+      "id": "US/42/499",
+      "group": 6
+    },
+    {
+      "id": "US/42/501",
+      "group": 6
+    },
+    {
+      "id": "US/42/503",
+      "group": 6
+    },
+    {
+      "id": "US/42/507",
+      "group": 6
+    },
+    {
+      "id": "US/42/708",
+      "group": 6
+    },
+    {
+      "id": "US/42/711",
+      "group": 6
+    },
+    {
+      "id": "US/60/804",
+      "group": 6
+    },
+    {
+      "id": "US/60/805",
+      "group": 6
+    },
+    {
+      "id": "US/60/807",
+      "group": 6
+    },
+    {
+      "id": "US/60/808",
+      "group": 6
+    },
+    {
+      "id": "US/60/809",
+      "group": 6
+    },
+    {
+      "id": "US/60/810",
+      "group": 6
+    },
+    {
+      "id": "US/60/811",
+      "group": 6
+    },
+    {
+      "id": "US/60/812",
+      "group": 6
+    },
+    {
+      "id": "US/60/816",
+      "group": 6
+    },
+    {
+      "id": "US/60/817",
+      "group": 6
+    },
+    {
+      "id": "US/60/818",
+      "group": 6
+    },
+    {
+      "id": "US/60/823",
+      "group": 6
+    },
+    {
+      "id": "US/60/824",
+      "group": 6
+    }
+  ],
+  "links": [
+    {
+      "source": "Anadarko Petroleum",
+      "target": "E_AND_P",
+      "value": 3
+    },
+    {
+      "source": "E_AND_P",
+      "target": "INTL_DWEX",
+      "value": 1.9855
+    },
+    {
+      "source": "E_AND_P",
+      "target": "INTL_DWOP",
+      "value": 2.3386
+    },
+    {
+      "source": "E_AND_P",
+      "target": "MARKETG",
+      "value": 1.9198
+    },
+    {
+      "source": "E_AND_P",
+      "target": "MDSTRM",
+      "value": 1.5906
+    },
+    {
+      "source": "E_AND_P",
+      "target": "USONS_EP",
+      "value": 3
+    },
+    {
+      "source": "INTL_DWEX",
+      "target": "EXPL_GOM",
+      "value": 2.0193
+    },
+    {
+      "source": "INTL_DWOP",
+      "target": "OFFSHOR",
+      "value": 2.3784
+    },
+    {
+      "source": "MARKETG",
+      "target": "DOM_MKTG",
+      "value": 2.0222
+    },
+    {
+      "source": "MARKETG",
+      "target": "MARKETG",
+      "value": 1.9524
+    },
+    {
+      "source": "MDSTRM",
+      "target": "MIDIA",
+      "value": 1.5808
+    },
+    {
+      "source": "MDSTRM",
+      "target": "MISCMDSTRM",
+      "value": 1.4478
+    },
+    {
+      "source": "USONS_EP",
+      "target": "ASSET_MGMT",
+      "value": 3
+    },
+    {
+      "source": "USONS_EP",
+      "target": "DELAWR_BSN",
+      "value": 2.6656
+    },
+    {
+      "source": "USONS_EP",
+      "target": "GRWTH",
+      "value": 1.9921
+    },
+    {
+      "source": "USONS_EP",
+      "target": "OTH_ONSHORE",
+      "value": 1.6468
+    },
+    {
+      "source": "ASSET_MGMT",
+      "target": "FRSTCHKHST",
+      "value": 3
+    },
+    {
+      "source": "ASSET_MGMT",
+      "target": "MAVERICK",
+      "value": 2.7574
+    },
+    {
+      "source": "ASSET_MGMT",
+      "target": "SW_REG_OTH",
+      "value": 1.585
+    },
+    {
+      "source": "ASSET_MGMT",
+      "target": "WCHALK",
+      "value": 2.6396
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "40050603",
+      "value": 1.6305
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41002054",
+      "value": 2.3008
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41002139",
+      "value": 2.1946
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41002153",
+      "value": 2.5304
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41004140",
+      "value": 2.5278
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41004141",
+      "value": 2.4758
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "41008534",
+      "value": 1.9052
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "43100545",
+      "value": 2.4614
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "43100591",
+      "value": 2.203
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "43102157",
+      "value": 2.8019
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "43102159",
+      "value": 2.4484
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "43103104",
+      "value": 2.088
+    },
+    {
+      "source": "DELAWR_BSN",
+      "target": "DELAWR_BSN",
+      "value": 2.7608
+    },
+    {
+      "source": "EXPL_GOM",
+      "target": "EGOM_EXPL",
+      "value": 2.0807
+    },
+    {
+      "source": "EXPL_GOM",
+      "target": "WGOM_EXPL",
+      "value": 1.6754
+    },
+    {
+      "source": "GRWTH",
+      "target": "EXPL_NOAM",
+      "value": 2.0632
+    },
+    {
+      "source": "MIDIA",
+      "target": "MDSTRINACT",
+      "value": 1.6373
+    },
+    {
+      "source": "MISCMDSTRM",
+      "target": "41008195",
+      "value": 1.6305
+    },
+    {
+      "source": "MISCMDSTRM",
+      "target": "MISCMDSTRM",
+      "value": 1.4995
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "EGOM",
+      "value": 2.1493
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "EGOMNEWDEV",
+      "value": 1.585
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "FOLDBELT",
+      "value": 2.0538
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "GOM_ADMIN",
+      "value": 1.9336
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "GOM_OBO",
+      "value": 2.1793
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "GREEN_CNYN",
+      "value": 2.1291
+    },
+    {
+      "source": "OFFSHOR",
+      "target": "WGOM",
+      "value": 2.2279
+    },
+    {
+      "source": "OTH_ONSHORE",
+      "target": "OTH_ONS",
+      "value": 1.7056
+    },
+    {
+      "source": "DOM_MKTG",
+      "target": "41001262",
+      "value": 1.9257
+    },
+    {
+      "source": "DOM_MKTG",
+      "target": "41008167",
+      "value": 1.9604
+    },
+    {
+      "source": "DOM_MKTG",
+      "target": "41008279",
+      "value": 1.7235
+    },
+    {
+      "source": "DOM_MKTG",
+      "target": "41008630",
+      "value": 2.088
+    },
+    {
+      "source": "EGOM",
+      "target": "40008764",
+      "value": 1.7235
+    },
+    {
+      "source": "EGOM",
+      "target": "41001238",
+      "value": 1.8819
+    },
+    {
+      "source": "EGOM",
+      "target": "41001239",
+      "value": 1.9052
+    },
+    {
+      "source": "EGOM",
+      "target": "41001240",
+      "value": 1.8218
+    },
+    {
+      "source": "EGOM",
+      "target": "41001241",
+      "value": 1.6305
+    },
+    {
+      "source": "EGOM",
+      "target": "41001264",
+      "value": 1.7803
+    },
+    {
+      "source": "EGOM",
+      "target": "41001265",
+      "value": 1.7803
+    },
+    {
+      "source": "EGOM",
+      "target": "41001266",
+      "value": 1.7803
+    },
+    {
+      "source": "EGOM",
+      "target": "41001267",
+      "value": 1.8218
+    },
+    {
+      "source": "EGOM",
+      "target": "41001284",
+      "value": 1.6305
+    },
+    {
+      "source": "EGOM",
+      "target": "41008104",
+      "value": 1.8546
+    },
+    {
+      "source": "EGOM",
+      "target": "41008174",
+      "value": 1.8218
+    },
+    {
+      "source": "EGOM",
+      "target": "43101658",
+      "value": 1.6305
+    },
+    {
+      "source": "EGOM",
+      "target": "43104053",
+      "value": 2.1094
+    },
+    {
+      "source": "EGOM",
+      "target": "43104054",
+      "value": 2.0802
+    },
+    {
+      "source": "EGOMNEWDEV",
+      "target": "41002690",
+      "value": 1.7235
+    },
+    {
+      "source": "EGOM_EXPL",
+      "target": "41001712",
+      "value": 2.2625
+    },
+    {
+      "source": "EXPL_NOAM",
+      "target": "41001804",
+      "value": 1.9052
+    },
+    {
+      "source": "EXPL_NOAM",
+      "target": "41008325",
+      "value": 2.1346
+    },
+    {
+      "source": "EXPL_NOAM",
+      "target": "43100595",
+      "value": 2.0547
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "40008765",
+      "value": 1.7235
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "41002059",
+      "value": 1.7235
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "41008162",
+      "value": 1.8546
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "41008163",
+      "value": 2.025
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "41008164",
+      "value": 2.0636
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "43101549",
+      "value": 1.6305
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "43101550",
+      "value": 1.7803
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "43102765",
+      "value": 1.7235
+    },
+    {
+      "source": "FOLDBELT",
+      "target": "43102766",
+      "value": 1.7235
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "40050589",
+      "value": 2.5685
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "40050759",
+      "value": 2.6236
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41001500",
+      "value": 3
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41001583",
+      "value": 1.8218
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41001835",
+      "value": 2.432
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41001982",
+      "value": 2.702
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41004101",
+      "value": 2.1719
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41004121",
+      "value": 2.4435
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41004151",
+      "value": 1.7803
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41008010",
+      "value": 2.207
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41008196",
+      "value": 2.5057
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41008200",
+      "value": 2.0954
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41008395",
+      "value": 2.3264
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "41008445",
+      "value": 2.1568
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "43102004",
+      "value": 2.5518
+    },
+    {
+      "source": "FRSTCHKHST",
+      "target": "43102007",
+      "value": 2.9315
+    },
+    {
+      "source": "GOM_ADMIN",
+      "target": "41001672",
+      "value": 1.9604
+    },
+    {
+      "source": "GOM_ADMIN",
+      "target": "41002766",
+      "value": 1.9439
+    },
+    {
+      "source": "GOM_ADMIN",
+      "target": "41008353",
+      "value": 1.8546
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001649",
+      "value": 2.0138
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001659",
+      "value": 1.8546
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001660",
+      "value": 1.9604
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001661",
+      "value": 1.9604
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001663",
+      "value": 1.8546
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001667",
+      "value": 1.8546
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001796",
+      "value": 1.6305
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001859",
+      "value": 1.9257
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "41001895",
+      "value": 1.8218
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "43102206",
+      "value": 1.9754
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "43102522",
+      "value": 1.6305
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "43104051",
+      "value": 1.9257
+    },
+    {
+      "source": "GOM_OBO",
+      "target": "43104052",
+      "value": 2.1094
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "40040050",
+      "value": 1.9754
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "41001665",
+      "value": 2.0721
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "41001666",
+      "value": 1.9604
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "41001860",
+      "value": 1.9892
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "43103974",
+      "value": 1.6305
+    },
+    {
+      "source": "GREEN_CNYN",
+      "target": "43104055",
+      "value": 2.1161
+    },
+    {
+      "source": "MAVERICK",
+      "target": "41004279",
+      "value": 2.9982
+    },
+    {
+      "source": "MAVERICK",
+      "target": "41004281",
+      "value": 1.6305
+    },
+    {
+      "source": "MDSTRINACT",
+      "target": "41008288",
+      "value": 1.7803
+    },
+    {
+      "source": "OTH_ONS",
+      "target": "41008374",
+      "value": 1.8546
+    },
+    {
+      "source": "SW_REG_OTH",
+      "target": "41001674",
+      "value": 1.6305
+    },
+    {
+      "source": "SW_REG_OTH",
+      "target": "41008199",
+      "value": 1.6305
+    },
+    {
+      "source": "WCHALK",
+      "target": "41001673",
+      "value": 1.7803
+    },
+    {
+      "source": "WCHALK",
+      "target": "41001889",
+      "value": 2.6416
+    },
+    {
+      "source": "WCHALK",
+      "target": "41008170",
+      "value": 2.4779
+    },
+    {
+      "source": "WCHALK",
+      "target": "41008336",
+      "value": 2.7082
+    },
+    {
+      "source": "WGOM",
+      "target": "40009036",
+      "value": 1.7803
+    },
+    {
+      "source": "WGOM",
+      "target": "40009731",
+      "value": 1.6305
+    },
+    {
+      "source": "WGOM",
+      "target": "40009732",
+      "value": 1.9604
+    },
+    {
+      "source": "WGOM",
+      "target": "41001651",
+      "value": 1.6305
+    },
+    {
+      "source": "WGOM",
+      "target": "41001652",
+      "value": 1.7235
+    },
+    {
+      "source": "WGOM",
+      "target": "41001653",
+      "value": 1.8218
+    },
+    {
+      "source": "WGOM",
+      "target": "41001654",
+      "value": 2.2225
+    },
+    {
+      "source": "WGOM",
+      "target": "41001655",
+      "value": 2.0721
+    },
+    {
+      "source": "WGOM",
+      "target": "41001656",
+      "value": 1.8218
+    },
+    {
+      "source": "WGOM",
+      "target": "41001662",
+      "value": 2.1094
+    },
+    {
+      "source": "WGOM",
+      "target": "41001864",
+      "value": 1.6305
+    },
+    {
+      "source": "WGOM",
+      "target": "43100463",
+      "value": 2.0721
+    },
+    {
+      "source": "WGOM",
+      "target": "43103432",
+      "value": 1.7235
+    },
+    {
+      "source": "WGOM_EXPL",
+      "target": "41001710",
+      "value": 1.8218
+    },
+    {
+      "source": "40008764",
+      "target": "US/60/817",
+      "value": 1.7462
+    },
+    {
+      "source": "40008765",
+      "target": "US/60/811",
+      "value": 1.7462
+    },
+    {
+      "source": "40009036",
+      "target": "US/60/804",
+      "value": 1.8038
+    },
+    {
+      "source": "40009731",
+      "target": "US/60/804",
+      "value": 1.652
+    },
+    {
+      "source": "40009732",
+      "target": "US/60/804",
+      "value": 1.9862
+    },
+    {
+      "source": "40040050",
+      "target": "US/60/811",
+      "value": 2.0014
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/301",
+      "value": 2.2191
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/371",
+      "value": 1.7462
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/389",
+      "value": 2.1567
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/461",
+      "value": 1.652
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/475",
+      "value": 2.4062
+    },
+    {
+      "source": "40050589",
+      "target": "US/42/495",
+      "value": 2.4097
+    },
+    {
+      "source": "40050603",
+      "target": "US/42/301",
+      "value": 1.652
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/009",
+      "value": 2.0404
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/049",
+      "value": 1.9066
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/059",
+      "value": 1.7462
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/083",
+      "value": 1.652
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/097",
+      "value": 2.2146
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/133",
+      "value": 1.951
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/143",
+      "value": 2.0014
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/151",
+      "value": 2.1504
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/181",
+      "value": 2.1155
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/197",
+      "value": 1.9303
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/207",
+      "value": 1.7462
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/217",
+      "value": 1.8038
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/237",
+      "value": 1.8458
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/251",
+      "value": 2.2697
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/253",
+      "value": 1.8458
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/275",
+      "value": 1.9066
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/337",
+      "value": 1.9303
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/363",
+      "value": 1.879
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/367",
+      "value": 2.1743
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/399",
+      "value": 1.8458
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/417",
+      "value": 1.652
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/429",
+      "value": 2.1076
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/433",
+      "value": 1.9695
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/483",
+      "value": 1.652
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/485",
+      "value": 2.2401
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/487",
+      "value": 1.8458
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/497",
+      "value": 2.2146
+    },
+    {
+      "source": "40050759",
+      "target": "US/42/503",
+      "value": 1.9066
+    },
+    {
+      "source": "41001238",
+      "target": "US/60/818",
+      "value": 1.9066
+    },
+    {
+      "source": "41001239",
+      "target": "US/60/823",
+      "value": 1.9303
+    },
+    {
+      "source": "41001240",
+      "target": "US/60/824",
+      "value": 1.8458
+    },
+    {
+      "source": "41001241",
+      "target": "US/60/818",
+      "value": 1.652
+    },
+    {
+      "source": "41001262",
+      "target": "US/42/203",
+      "value": 1.652
+    },
+    {
+      "source": "41001262",
+      "target": "US/42/241",
+      "value": 1.652
+    },
+    {
+      "source": "41001262",
+      "target": "US/42/373",
+      "value": 1.652
+    },
+    {
+      "source": "41001262",
+      "target": "US/42/457",
+      "value": 1.879
+    },
+    {
+      "source": "41001264",
+      "target": "US/60/818",
+      "value": 1.8038
+    },
+    {
+      "source": "41001265",
+      "target": "US/60/824",
+      "value": 1.8038
+    },
+    {
+      "source": "41001266",
+      "target": "US/60/824",
+      "value": 1.8038
+    },
+    {
+      "source": "41001267",
+      "target": "US/60/823",
+      "value": 1.8458
+    },
+    {
+      "source": "41001284",
+      "target": "US/60/817",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/013",
+      "value": 1.951
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/015",
+      "value": 1.951
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/017",
+      "value": 2.4079
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/021",
+      "value": 1.8458
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/027",
+      "value": 2.2697
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/031",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/041",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/059",
+      "value": 2.0283
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/061",
+      "value": 2.1076
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/073",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/081",
+      "value": 1.9303
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/083",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/107",
+      "value": 2.1905
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/111",
+      "value": 1.9695
+    },
+    {
+      "source": "41001500",
+      "target": "US/17/119",
+      "value": 1.951
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/037",
+      "value": 1.9862
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/067",
+      "value": 2.0723
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/073",
+      "value": 2.0908
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/115",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/159",
+      "value": 1.652
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/183",
+      "value": 2.8083
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/203",
+      "value": 2.3571
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/213",
+      "value": 2.3548
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/223",
+      "value": 1.8458
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/315",
+      "value": 1.9066
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/365",
+      "value": 2.6615
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/379",
+      "value": 1.8458
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/401",
+      "value": 2.5051
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/419",
+      "value": 1.951
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/423",
+      "value": 2.46
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/459",
+      "value": 2.0014
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/467",
+      "value": 1.879
+    },
+    {
+      "source": "41001500",
+      "target": "US/42/499",
+      "value": 2.1799
+    },
+    {
+      "source": "41001583",
+      "target": "US/17/101",
+      "value": 1.652
+    },
+    {
+      "source": "41001583",
+      "target": "US/42/051",
+      "value": 1.652
+    },
+    {
+      "source": "41001583",
+      "target": "US/42/135",
+      "value": 1.652
+    },
+    {
+      "source": "41001583",
+      "target": "US/42/173",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/17/709",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/17/718",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/17/720",
+      "value": 1.9066
+    },
+    {
+      "source": "41001649",
+      "target": "US/60/804",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/60/811",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/60/816",
+      "value": 1.652
+    },
+    {
+      "source": "41001649",
+      "target": "US/60/817",
+      "value": 1.7462
+    },
+    {
+      "source": "41001649",
+      "target": "US/60/823",
+      "value": 1.652
+    },
+    {
+      "source": "41001651",
+      "target": "US/60/804",
+      "value": 1.652
+    },
+    {
+      "source": "41001652",
+      "target": "US/60/804",
+      "value": 1.7462
+    },
+    {
+      "source": "41001653",
+      "target": "US/60/804",
+      "value": 1.8458
+    },
+    {
+      "source": "41001654",
+      "target": "US/60/804",
+      "value": 2.2517
+    },
+    {
+      "source": "41001655",
+      "target": "US/60/804",
+      "value": 2.0994
+    },
+    {
+      "source": "41001656",
+      "target": "US/60/804",
+      "value": 1.8458
+    },
+    {
+      "source": "41001659",
+      "target": "US/60/807",
+      "value": 1.879
+    },
+    {
+      "source": "41001660",
+      "target": "US/60/807",
+      "value": 1.9862
+    },
+    {
+      "source": "41001661",
+      "target": "US/60/807",
+      "value": 1.9862
+    },
+    {
+      "source": "41001662",
+      "target": "US/60/807",
+      "value": 2.1372
+    },
+    {
+      "source": "41001663",
+      "target": "US/60/807",
+      "value": 1.879
+    },
+    {
+      "source": "41001665",
+      "target": "US/60/811",
+      "value": 2.0994
+    },
+    {
+      "source": "41001666",
+      "target": "US/60/811",
+      "value": 1.9862
+    },
+    {
+      "source": "41001667",
+      "target": "US/60/817",
+      "value": 1.879
+    },
+    {
+      "source": "41001672",
+      "target": "US/17/702",
+      "value": 1.7462
+    },
+    {
+      "source": "41001672",
+      "target": "US/17/715",
+      "value": 1.652
+    },
+    {
+      "source": "41001672",
+      "target": "US/17/718",
+      "value": 1.652
+    },
+    {
+      "source": "41001672",
+      "target": "US/17/725",
+      "value": 1.652
+    },
+    {
+      "source": "41001672",
+      "target": "US/42/708",
+      "value": 1.8038
+    },
+    {
+      "source": "41001672",
+      "target": "US/42/711",
+      "value": 1.652
+    },
+    {
+      "source": "41001672",
+      "target": "US/60/807",
+      "value": 1.652
+    },
+    {
+      "source": "41001673",
+      "target": "US/42/051",
+      "value": 1.8038
+    },
+    {
+      "source": "41001674",
+      "target": "US/42/071",
+      "value": 1.652
+    },
+    {
+      "source": "41001710",
+      "target": "US/60/804",
+      "value": 1.8038
+    },
+    {
+      "source": "41001710",
+      "target": "US/60/807",
+      "value": 1.652
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/807",
+      "value": 1.879
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/808",
+      "value": 1.7462
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/809",
+      "value": 1.7462
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/811",
+      "value": 1.9862
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/812",
+      "value": 2.1155
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/817",
+      "value": 1.9695
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/818",
+      "value": 1.9303
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/823",
+      "value": 1.7462
+    },
+    {
+      "source": "41001712",
+      "target": "US/60/824",
+      "value": 1.652
+    },
+    {
+      "source": "41001796",
+      "target": "US/60/811",
+      "value": 1.652
+    },
+    {
+      "source": "41001804",
+      "target": "US/42/127",
+      "value": 1.8458
+    },
+    {
+      "source": "41001804",
+      "target": "US/42/323",
+      "value": 1.652
+    },
+    {
+      "source": "41001804",
+      "target": "US/42/479",
+      "value": 1.7462
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/025",
+      "value": 1.652
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/127",
+      "value": 2.0908
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/131",
+      "value": 2.0908
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/163",
+      "value": 1.652
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/215",
+      "value": 2.1799
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/261",
+      "value": 1.8038
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/283",
+      "value": 1.8038
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/355",
+      "value": 2.0623
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/427",
+      "value": 2.0014
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/465",
+      "value": 1.652
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/479",
+      "value": 2.0014
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/489",
+      "value": 1.9303
+    },
+    {
+      "source": "41001835",
+      "target": "US/42/507",
+      "value": 2.1303
+    },
+    {
+      "source": "41001859",
+      "target": "US/60/807",
+      "value": 1.951
+    },
+    {
+      "source": "41001860",
+      "target": "US/60/811",
+      "value": 2.0154
+    },
+    {
+      "source": "41001864",
+      "target": "US/60/807",
+      "value": 1.652
+    },
+    {
+      "source": "41001889",
+      "target": "US/42/041",
+      "value": 2.4148
+    },
+    {
+      "source": "41001889",
+      "target": "US/42/051",
+      "value": 2.5127
+    },
+    {
+      "source": "41001889",
+      "target": "US/42/331",
+      "value": 1.9862
+    },
+    {
+      "source": "41001889",
+      "target": "US/42/395",
+      "value": 2.3917
+    },
+    {
+      "source": "41001895",
+      "target": "US/60/807",
+      "value": 1.8458
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/001",
+      "value": 2.1686
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/003",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/009",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/011",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/019",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/023",
+      "value": 2.0154
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/029",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/033",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/039",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/053",
+      "value": 1.9862
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/057",
+      "value": 1.8038
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/063",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/077",
+      "value": 1.9303
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/079",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/093",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/097",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/099",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/101",
+      "value": 2.2401
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/109",
+      "value": 2.0154
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/113",
+      "value": 2.1686
+    },
+    {
+      "source": "41001982",
+      "target": "US/17/709",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/013",
+      "value": 2.0517
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/015",
+      "value": 1.9695
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/021",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/025",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/039",
+      "value": 2.1076
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/055",
+      "value": 1.9303
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/057",
+      "value": 1.8458
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/071",
+      "value": 1.9695
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/089",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/123",
+      "value": 2.0623
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/157",
+      "value": 1.9303
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/167",
+      "value": 1.879
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/175",
+      "value": 1.8458
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/185",
+      "value": 1.8038
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/187",
+      "value": 1.9303
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/199",
+      "value": 1.8038
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/201",
+      "value": 2.2554
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/239",
+      "value": 2.0908
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/245",
+      "value": 2.0623
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/255",
+      "value": 2.0818
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/285",
+      "value": 2.0908
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/291",
+      "value": 2.2797
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/297",
+      "value": 2.1155
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/321",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/339",
+      "value": 1.8038
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/361",
+      "value": 1.951
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/389",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/391",
+      "value": 2.0818
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/409",
+      "value": 1.7462
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/469",
+      "value": 1.8458
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/471",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/473",
+      "value": 1.652
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/481",
+      "value": 1.8038
+    },
+    {
+      "source": "41001982",
+      "target": "US/42/493",
+      "value": 1.9303
+    },
+    {
+      "source": "41002054",
+      "target": "US/42/173",
+      "value": 2.0283
+    },
+    {
+      "source": "41002054",
+      "target": "US/42/301",
+      "value": 1.652
+    },
+    {
+      "source": "41002054",
+      "target": "US/42/389",
+      "value": 2.1076
+    },
+    {
+      "source": "41002054",
+      "target": "US/42/475",
+      "value": 2.2146
+    },
+    {
+      "source": "41002059",
+      "target": "US/60/811",
+      "value": 1.7462
+    },
+    {
+      "source": "41002139",
+      "target": "US/42/301",
+      "value": 2.1686
+    },
+    {
+      "source": "41002139",
+      "target": "US/42/389",
+      "value": 1.7462
+    },
+    {
+      "source": "41002139",
+      "target": "US/42/475",
+      "value": 1.8458
+    },
+    {
+      "source": "41002139",
+      "target": "US/42/495",
+      "value": 1.879
+    },
+    {
+      "source": "41002153",
+      "target": "US/42/301",
+      "value": 2.52
+    },
+    {
+      "source": "41002153",
+      "target": "US/42/389",
+      "value": 2.1076
+    },
+    {
+      "source": "41002153",
+      "target": "US/42/475",
+      "value": 1.9303
+    },
+    {
+      "source": "41002153",
+      "target": "US/42/495",
+      "value": 2.0908
+    },
+    {
+      "source": "41002690",
+      "target": "US/60/811",
+      "value": 1.7462
+    },
+    {
+      "source": "41002766",
+      "target": "US/60/807",
+      "value": 1.652
+    },
+    {
+      "source": "41002766",
+      "target": "US/60/810",
+      "value": 1.652
+    },
+    {
+      "source": "41002766",
+      "target": "US/60/811",
+      "value": 1.8038
+    },
+    {
+      "source": "41002766",
+      "target": "US/60/816",
+      "value": 1.652
+    },
+    {
+      "source": "41002766",
+      "target": "US/60/817",
+      "value": 1.8038
+    },
+    {
+      "source": "41004101",
+      "target": "US/17/085",
+      "value": 1.652
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/039",
+      "value": 2.0154
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/103",
+      "value": 1.8038
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/135",
+      "value": 1.8038
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/149",
+      "value": 1.7462
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/167",
+      "value": 1.7462
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/175",
+      "value": 1.8038
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/251",
+      "value": 1.652
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/329",
+      "value": 1.7462
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/367",
+      "value": 1.8038
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/371",
+      "value": 1.7462
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/477",
+      "value": 1.652
+    },
+    {
+      "source": "41004101",
+      "target": "US/42/507",
+      "value": 1.652
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/001",
+      "value": 2.1504
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/041",
+      "value": 1.652
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/161",
+      "value": 2.2401
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/225",
+      "value": 1.652
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/289",
+      "value": 2.2191
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/293",
+      "value": 2.0404
+    },
+    {
+      "source": "41004121",
+      "target": "US/42/395",
+      "value": 2.1628
+    },
+    {
+      "source": "41004140",
+      "target": "US/42/301",
+      "value": 2.3385
+    },
+    {
+      "source": "41004140",
+      "target": "US/42/389",
+      "value": 2.1076
+    },
+    {
+      "source": "41004140",
+      "target": "US/42/475",
+      "value": 2.4558
+    },
+    {
+      "source": "41004141",
+      "target": "US/42/301",
+      "value": 2.3457
+    },
+    {
+      "source": "41004141",
+      "target": "US/42/389",
+      "value": 1.8458
+    },
+    {
+      "source": "41004141",
+      "target": "US/42/475",
+      "value": 2.386
+    },
+    {
+      "source": "41004141",
+      "target": "US/42/495",
+      "value": 1.7462
+    },
+    {
+      "source": "41004151",
+      "target": "US/42/317",
+      "value": 1.652
+    },
+    {
+      "source": "41004151",
+      "target": "US/42/461",
+      "value": 1.652
+    },
+    {
+      "source": "41004151",
+      "target": "US/42/507",
+      "value": 1.652
+    },
+    {
+      "source": "41004279",
+      "target": "US/42/127",
+      "value": 3
+    },
+    {
+      "source": "41004279",
+      "target": "US/42/283",
+      "value": 2.3593
+    },
+    {
+      "source": "41004279",
+      "target": "US/42/323",
+      "value": 2.2191
+    },
+    {
+      "source": "41004279",
+      "target": "US/42/479",
+      "value": 2.4855
+    },
+    {
+      "source": "41004279",
+      "target": "US/42/507",
+      "value": 1.7462
+    },
+    {
+      "source": "41004281",
+      "target": "US/42/127",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/013",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/039",
+      "value": 1.8458
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/041",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/051",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/073",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/081",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/103",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/131",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/149",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/151",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/157",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/165",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/211",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/215",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/219",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/239",
+      "value": 1.7462
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/295",
+      "value": 1.8038
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/317",
+      "value": 1.7462
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/329",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/335",
+      "value": 1.8038
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/355",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/371",
+      "value": 1.7462
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/395",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/447",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/451",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/461",
+      "value": 1.8038
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/477",
+      "value": 1.7462
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/483",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/485",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/493",
+      "value": 1.652
+    },
+    {
+      "source": "41008010",
+      "target": "US/42/501",
+      "value": 1.652
+    },
+    {
+      "source": "41008104",
+      "target": "US/60/817",
+      "value": 1.7462
+    },
+    {
+      "source": "41008104",
+      "target": "US/60/818",
+      "value": 1.652
+    },
+    {
+      "source": "41008104",
+      "target": "US/60/824",
+      "value": 1.7462
+    },
+    {
+      "source": "41008162",
+      "target": "US/60/811",
+      "value": 1.879
+    },
+    {
+      "source": "41008163",
+      "target": "US/60/811",
+      "value": 2.0517
+    },
+    {
+      "source": "41008164",
+      "target": "US/60/811",
+      "value": 2.0908
+    },
+    {
+      "source": "41008167",
+      "target": "US/17/049",
+      "value": 1.9862
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/015",
+      "value": 1.9303
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/041",
+      "value": 2.0818
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/051",
+      "value": 2.4262
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/149",
+      "value": 1.8458
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/175",
+      "value": 1.8038
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/239",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/247",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/285",
+      "value": 1.7462
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/287",
+      "value": 1.9695
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/311",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/313",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/321",
+      "value": 1.8038
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/355",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/373",
+      "value": 1.7462
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/395",
+      "value": 1.951
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/427",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/457",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/481",
+      "value": 1.652
+    },
+    {
+      "source": "41008170",
+      "target": "US/42/493",
+      "value": 1.652
+    },
+    {
+      "source": "41008174",
+      "target": "US/60/818",
+      "value": 1.652
+    },
+    {
+      "source": "41008174",
+      "target": "US/60/824",
+      "value": 1.8038
+    },
+    {
+      "source": "41008195",
+      "target": "US/42/421",
+      "value": 1.652
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/065",
+      "value": 1.8458
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/087",
+      "value": 1.8458
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/151",
+      "value": 1.652
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/179",
+      "value": 1.9303
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/195",
+      "value": 1.8038
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/211",
+      "value": 2.1799
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/233",
+      "value": 1.879
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/295",
+      "value": 2.2861
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/357",
+      "value": 2.232
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/393",
+      "value": 1.9303
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/421",
+      "value": 1.7462
+    },
+    {
+      "source": "41008196",
+      "target": "US/42/483",
+      "value": 2.2554
+    },
+    {
+      "source": "41008199",
+      "target": "US/17/087",
+      "value": 1.652
+    },
+    {
+      "source": "41008200",
+      "target": "US/17/115",
+      "value": 1.7462
+    },
+    {
+      "source": "41008200",
+      "target": "US/42/199",
+      "value": 1.9862
+    },
+    {
+      "source": "41008200",
+      "target": "US/42/291",
+      "value": 1.7462
+    },
+    {
+      "source": "41008200",
+      "target": "US/42/351",
+      "value": 1.652
+    },
+    {
+      "source": "41008200",
+      "target": "US/42/373",
+      "value": 1.8458
+    },
+    {
+      "source": "41008200",
+      "target": "US/42/457",
+      "value": 1.8458
+    },
+    {
+      "source": "41008279",
+      "target": "US/42/041",
+      "value": 1.652
+    },
+    {
+      "source": "41008279",
+      "target": "US/42/477",
+      "value": 1.652
+    },
+    {
+      "source": "41008288",
+      "target": "US/42/183",
+      "value": 1.7462
+    },
+    {
+      "source": "41008288",
+      "target": "US/42/401",
+      "value": 1.652
+    },
+    {
+      "source": "41008325",
+      "target": "US/17/009",
+      "value": 1.9066
+    },
+    {
+      "source": "41008325",
+      "target": "US/17/077",
+      "value": 1.7462
+    },
+    {
+      "source": "41008325",
+      "target": "US/17/115",
+      "value": 1.7462
+    },
+    {
+      "source": "41008325",
+      "target": "US/17/125",
+      "value": 1.7462
+    },
+    {
+      "source": "41008325",
+      "target": "US/17/127",
+      "value": 1.7462
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/041",
+      "value": 1.652
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/051",
+      "value": 1.7462
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/067",
+      "value": 1.879
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/185",
+      "value": 1.652
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/199",
+      "value": 1.8458
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/241",
+      "value": 1.652
+    },
+    {
+      "source": "41008325",
+      "target": "US/42/351",
+      "value": 1.652
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/041",
+      "value": 2.46
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/051",
+      "value": 2.6378
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/089",
+      "value": 1.652
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/149",
+      "value": 1.7462
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/185",
+      "value": 1.652
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/287",
+      "value": 1.652
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/289",
+      "value": 1.7462
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/331",
+      "value": 2.0623
+    },
+    {
+      "source": "41008336",
+      "target": "US/42/395",
+      "value": 2.2697
+    },
+    {
+      "source": "41008353",
+      "target": "US/17/702",
+      "value": 1.652
+    },
+    {
+      "source": "41008353",
+      "target": "US/60/807",
+      "value": 1.652
+    },
+    {
+      "source": "41008353",
+      "target": "US/60/816",
+      "value": 1.8038
+    },
+    {
+      "source": "41008374",
+      "target": "US/42/079",
+      "value": 1.652
+    },
+    {
+      "source": "41008374",
+      "target": "US/42/103",
+      "value": 1.652
+    },
+    {
+      "source": "41008374",
+      "target": "US/42/151",
+      "value": 1.652
+    },
+    {
+      "source": "41008374",
+      "target": "US/42/461",
+      "value": 1.652
+    },
+    {
+      "source": "41008374",
+      "target": "US/42/475",
+      "value": 1.652
+    },
+    {
+      "source": "41008395",
+      "target": "US/42/105",
+      "value": 2.3548
+    },
+    {
+      "source": "41008395",
+      "target": "US/42/413",
+      "value": 1.652
+    },
+    {
+      "source": "41008445",
+      "target": "US/42/241",
+      "value": 2.1303
+    },
+    {
+      "source": "41008445",
+      "target": "US/42/355",
+      "value": 1.9066
+    },
+    {
+      "source": "41008445",
+      "target": "US/42/373",
+      "value": 1.652
+    },
+    {
+      "source": "41008445",
+      "target": "US/42/457",
+      "value": 1.7462
+    },
+    {
+      "source": "41008534",
+      "target": "US/42/371",
+      "value": 1.9303
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/105",
+      "value": 1.7462
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/161",
+      "value": 1.8458
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/289",
+      "value": 1.9066
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/365",
+      "value": 1.8458
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/395",
+      "value": 1.8458
+    },
+    {
+      "source": "41008630",
+      "target": "US/42/457",
+      "value": 1.7462
+    },
+    {
+      "source": "43100463",
+      "target": "US/60/808",
+      "value": 2.0994
+    },
+    {
+      "source": "43100545",
+      "target": "US/42/301",
+      "value": 2.4903
+    },
+    {
+      "source": "43100545",
+      "target": "US/42/389",
+      "value": 1.8038
+    },
+    {
+      "source": "43100591",
+      "target": "US/42/301",
+      "value": 2.232
+    },
+    {
+      "source": "43100595",
+      "target": "US/42/003",
+      "value": 1.7462
+    },
+    {
+      "source": "43100595",
+      "target": "US/42/301",
+      "value": 1.652
+    },
+    {
+      "source": "43100595",
+      "target": "US/42/389",
+      "value": 1.9303
+    },
+    {
+      "source": "43100595",
+      "target": "US/42/495",
+      "value": 1.7462
+    },
+    {
+      "source": "43100595",
+      "target": "US/42/501",
+      "value": 1.9066
+    },
+    {
+      "source": "43101549",
+      "target": "US/60/812",
+      "value": 1.652
+    },
+    {
+      "source": "43101550",
+      "target": "US/60/817",
+      "value": 1.8038
+    },
+    {
+      "source": "43101658",
+      "target": "US/60/824",
+      "value": 1.652
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/041",
+      "value": 2.3741
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/051",
+      "value": 2.46
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/103",
+      "value": 1.7462
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/149",
+      "value": 1.9066
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/287",
+      "value": 1.9862
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/329",
+      "value": 1.652
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/331",
+      "value": 1.652
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/395",
+      "value": 1.9303
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/461",
+      "value": 1.652
+    },
+    {
+      "source": "43102004",
+      "target": "US/42/477",
+      "value": 1.8458
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/003",
+      "value": 2.434
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/033",
+      "value": 2.123
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/079",
+      "value": 1.9862
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/081",
+      "value": 2.0014
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/101",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/103",
+      "value": 2.4214
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/107",
+      "value": 1.9066
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/109",
+      "value": 1.9862
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/115",
+      "value": 1.9303
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/135",
+      "value": 2.4938
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/151",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/165",
+      "value": 2.533
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/169",
+      "value": 1.879
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/173",
+      "value": 2.3548
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/189",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/195",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/219",
+      "value": 2.0154
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/227",
+      "value": 2.3013
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/235",
+      "value": 2.1852
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/247",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/251",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/263",
+      "value": 1.8038
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/279",
+      "value": 1.7462
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/303",
+      "value": 1.7462
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/305",
+      "value": 1.7462
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/317",
+      "value": 2.1076
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/329",
+      "value": 2.3154
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/335",
+      "value": 2.0994
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/371",
+      "value": 2.4262
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/383",
+      "value": 2.4148
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/389",
+      "value": 2.0818
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/401",
+      "value": 1.652
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/413",
+      "value": 1.9066
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/415",
+      "value": 2.3013
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/431",
+      "value": 2.1504
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/443",
+      "value": 2.2517
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/445",
+      "value": 2.0623
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/451",
+      "value": 2.0908
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/461",
+      "value": 2.144
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/483",
+      "value": 1.951
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/495",
+      "value": 1.9862
+    },
+    {
+      "source": "43102007",
+      "target": "US/42/501",
+      "value": 2.1955
+    },
+    {
+      "source": "43102157",
+      "target": "US/42/043",
+      "value": 1.652
+    },
+    {
+      "source": "43102157",
+      "target": "US/42/301",
+      "value": 2.7099
+    },
+    {
+      "source": "43102157",
+      "target": "US/42/389",
+      "value": 2.5823
+    },
+    {
+      "source": "43102157",
+      "target": "US/42/475",
+      "value": 2.4044
+    },
+    {
+      "source": "43102157",
+      "target": "US/42/495",
+      "value": 1.9303
+    },
+    {
+      "source": "43102159",
+      "target": "US/42/301",
+      "value": 2.423
+    },
+    {
+      "source": "43102159",
+      "target": "US/42/389",
+      "value": 2.0623
+    },
+    {
+      "source": "43102159",
+      "target": "US/42/475",
+      "value": 2.123
+    },
+    {
+      "source": "43102159",
+      "target": "US/42/495",
+      "value": 1.7462
+    },
+    {
+      "source": "43102206",
+      "target": "US/60/817",
+      "value": 2.0014
+    },
+    {
+      "source": "43102522",
+      "target": "US/60/804",
+      "value": 1.652
+    },
+    {
+      "source": "43102765",
+      "target": "US/60/811",
+      "value": 1.7462
+    },
+    {
+      "source": "43102766",
+      "target": "US/60/811",
+      "value": 1.7462
+    },
+    {
+      "source": "43103104",
+      "target": "US/42/301",
+      "value": 2.0283
+    },
+    {
+      "source": "43103104",
+      "target": "US/42/389",
+      "value": 1.8458
+    },
+    {
+      "source": "43103104",
+      "target": "US/42/475",
+      "value": 1.879
+    },
+    {
+      "source": "43103432",
+      "target": "US/60/808",
+      "value": 1.7462
+    },
+    {
+      "source": "43103974",
+      "target": "US/60/811",
+      "value": 1.652
+    },
+    {
+      "source": "43104051",
+      "target": "US/60/805",
+      "value": 1.951
+    },
+    {
+      "source": "43104052",
+      "target": "US/60/816",
+      "value": 2.1372
+    },
+    {
+      "source": "43104053",
+      "target": "US/60/816",
+      "value": 2.0517
+    },
+    {
+      "source": "43104053",
+      "target": "US/60/817",
+      "value": 1.9862
+    },
+    {
+      "source": "43104054",
+      "target": "US/60/817",
+      "value": 2.1076
+    },
+    {
+      "source": "43104055",
+      "target": "US/60/811",
+      "value": 2.144
+    }
+  ]
+}
+
